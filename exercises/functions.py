@@ -1,6 +1,6 @@
 def discounted_price(originl_price, discount):
     final_price = original_price * (1 - discount)
-
+    
 def profit(fund, profit_ratio):
     pure_profit = fund * profit_ratio
     return pure_profit
